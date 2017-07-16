@@ -1,0 +1,3 @@
+trasx_test.pcd
+bild_st3_test.pcd
+bild_st3_5.pcd
