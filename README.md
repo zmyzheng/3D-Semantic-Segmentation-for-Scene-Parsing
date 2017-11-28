@@ -14,4 +14,4 @@ Firstly, we estimated the shape outline through SIFT3D keypoint extraction and n
 ![](demo/overview.png)
 
 
-![](demo/overview.png) ![](demo/Characteristics-Innovation.png) ![](demo/Data-Preprocessing.png) ![](demo/C++ Feature Vector Extraction.png) ![](demo/Python Keras Neural Network Architecture.png) ![](demo/Semantic Labeled 3D Data Visualization.png)
+![](demo/overview.png) ![](demo/Characteristics-Innovation.png) ![](demo/Data-Preprocessing.png) ![](demo/Feature-Vector-Extraction.png) ![](demo/Python-Keras-Neural-Network-Architecture.png) ![](demo/Semantic-Labeled-3D-Data-Visualization.png)
